@@ -1,0 +1,7 @@
+hi,
+I order in zomoto
+1.go to zomoto
+2.select iteam
+3.order
+5.payment done
+
